@@ -1,2 +1,2 @@
 second commit
-# Author moqintao
+# Author is moqintao
